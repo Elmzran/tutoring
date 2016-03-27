@@ -8,8 +8,7 @@ int main()
 {
 
 	cout << "Hello world!" << endl;
-	cout<<" Evan was here"<< endl;
-
+	cout << " Evan was here" << endl;
 	test_function();
 
 	return 0;
