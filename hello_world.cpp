@@ -4,11 +4,14 @@ using namespace std;
 
 void test_function();
 
-int main() {
+int main()
+{
+
 	cout << "Hello world!" << endl;
 	cout<<" Evan was here"<< endl;
+
 	test_function();
-	// and made some changes
+
 	return 0;
 }
 
